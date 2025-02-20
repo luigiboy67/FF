@@ -1,2 +1,11 @@
 name,HP,Defense,Evasion,Magic Defense,Attack,Accuracy,Hit#,Crit,EXP,Gil
 Goblin,8,4,6,16,4,2,1,1,6,6
+Goblin Guard,16,6,9,23,8,4,1,1,18,18
+Wolf,20,0,36,28,8,5,1,0,24,6
+Crazy Horse,64,2,22,40,10,16,2,1,63,15
+Skeleton,10,0,12,17,10,2,1,0,9,3
+Black Widow,28,0,30,28,10,7,1,1,30,8
+Gigas Worm,56,8,24,40,17,14,1,1,63,15
+Warg Wolf,72,0,54,46,14,18,1,0,93,22
+Werewolf,68,6,42,45,14,17,1,0,135,67
+Zombie,20,0,6,25,10,5,1,0,24,12
