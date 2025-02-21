@@ -1,6 +1,6 @@
 #' Final Fantasy One Bestiary data
 #'
-#' data on all monsters in Final fantasy 1
+#' Data on all monsters in Final Fantasy 1
 #'
 #' @format `final_fantasy_one_bestiary_data`
 #' A data frame with 128 rows and 11 columns
