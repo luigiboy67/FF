@@ -28,6 +28,6 @@ A data frame with 128 rows and 11 columns
 final_fantasy_one_bestiary_data
 }
 \description{
-data on all monsters in Final fantasy 1
+Data on all monsters in Final Fantasy 1
 }
 \keyword{datasets}
