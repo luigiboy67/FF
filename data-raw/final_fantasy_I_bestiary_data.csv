@@ -1,4 +1,4 @@
-name,HP,Defense,Evasion,Magic Defense,Attack,Accuracy,Hit#,Crit,EXP,Gil
+Name,HP,Defense,Evasion,Magic Defense,Attack,Accuracy,Hit#,Crit,EXP,Gil
 Goblin,8,4,6,16,4,2,1,1,6,6
 Goblin Guard,16,6,9,23,8,4,1,1,18,18
 Wolf,20,0,36,28,8,5,1,0,24,6
