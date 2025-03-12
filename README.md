@@ -21,6 +21,6 @@ This is a basic example which shows you how to load a dataset
 
 ``` r
 library(FF)
-final_fantasy_one_bestiary_data
+final_fantasy_I_bestiary_data
 ```
 
