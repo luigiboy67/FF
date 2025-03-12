@@ -1,226 +1,227 @@
 Name, Level,HP,Attack,Defense,EXP,Gil
-Goblin,,,,,,
-Carbuncle,,,,,,
-Eye Fang,,,,,,
-Blue Wisp,,,,,,
-Killer Bee,,,,,,
-Werewolf,,,,,,
-Berserker,,,,,,
-Red Wisp,,,,,,
-Dark Eye,,,,,,
-Zombie,,,,,,
-Mummy,,,,,,
-Skeleton,,,,,,
-Cursed Copper,,,,,,
-Larva,,,,,,
-Shadow,,,,,,
-Revenant,,,,,,
-Firefly,,,,,,
-Helldiver,,,,,,
-Rust Bird,,,,,,
-Rukh,,,,,,
-Basilisk,,,,,,
-Bugbear,,,,,,
-Mandrake,,,,,,
-Leprechaun,,,,,,
-Darkface,,,,,,
-Petit,,,,,,
-Poison Bat,,,,,,
-Lilliputian,,,,,,
-Wererat,,,,,,
-Blood Worm,,,,,,
-Killer Fish,,,,,,
-Hermit,,,,,,
-Sea Elemental,,,,,,
-Tangie,,,,,,
-Sahagin,,,,,,
-Parademon,,,,,,
-Griffon,,,,,,
-Lynx,,,,,,
-Hornet,,,,,,
-Knocker,,,,,,
-Flyer,,,,,,
-Lizardman,,,,,,
-Gorgon,,,,,,
-Red Cap,,,,,,
-Barometz,,,,,,
-Slime,,,,,,
-Tarantula,,,,,,
-Cuphgel,,,,,,
-Pugman,,,,,,
-Far Darrig,,,,,,
-Blood Bat,,,,,,
-Petit Mage,,,,,,
-Fury,,,,,,
-Aughisky,,,,,,
-Bomb,,,,,,
-Manticore,,,,,,
-Stalagmite,,,,,,
-Sea Devil,,,,,,
-Merman,,,,,,
-Ruinous Wave,,,,,,
-Balloon,,,,,,
-Myrmecoleon,,,,,,
-Crocotta,,,,,,
-Adamantoise,,,,,,
-Red Marshmallow,,,,,,
-Pharaoh,,,,,,
-Lemur,,,,,,
-Lamia,,,,,,
-Demon,,,,,,
-Dullahan,,,,,,
-Anet,,,,,,
-Mermaid,,,,,,
-Seahorse,,,,,,
-Sea Serpent,,,,,,
-Cockatrice,,,,,,
-Poison Toad,,,,,,
-Twin Heads,,,,,,
-Roper,,,,,,
-Agaliarept,,,,,,
-Darklegs,,,,,,
-Gigantoad,,,,,,
-Twin Liger,,,,,,
-Stroper,,,,,,
-Black Flan,,,,,,
-Hellgaroo,,,,,,
-Vulcan,,,,,,
-Dracrotta,,,,,,
-Magician,,,,,,
-Lost Gold,,,,,,
-Gold Eagle,,,,,,
-Gold Warrior,,,,,,
-Gold Bear,,,,,,
-Gold Knight,,,,,,
-Nightmare,,,,,,
-Hellgaroo Mage,,,,,,
-Needle Monkey,,,,,,
-Catoblepas,,,,,,
-Sorcerer,,,,,,
-Sand Worm,,,,,,
-Frostfly,,,,,,
-Simurgh,,,,,,
-Harpy,,,,,,
-Gargoyle,,,,,,
-Chimera,,,,,,
-Demon Horse],,,,,,
-Rock Gargoyle,,,,,,
-Bovian,,,,,,
-Dread Knight,,,,,,
-Flyer Mage,,,,,,
-Noggle,,,,,,
-Abtu,,,,,,
-Sea Dragon,,,,,,
-Kagura,,,,,,
-Charybdis,,,,,,
-Dozmare,,,,,,
-Sea Witch,,,,,,
-Killer Hermit,,,,,,
-Ologhai,,,,,,
-Kelpie,,,,,,
-Aegir,,,,,,
-Kyklops,,,,,,
-Boss Troll,,,,,,
-Fachan,,,,,,
-Cenchos,,,,,,
-Balor,,,,,,
-Dira,,,,,,
-Chimera Mage,,,,,,
-King Lizard,,,,,,
-Pterodactyl,,,,,,
-Wyvern,,,,,,
-Behemoth,,,,,,
-King Seahorse,,,,,,
-Dragon,,,,,,
-Pyralis,,,,,,
-Silenus,,,,,,
-Gaap,,,,,,
-Azrael,,,,,,
-Eater,,,,,,
-Ouroboros,,,,,,
-Plancti,,,,,,
-Sea Lion,,,,,,
-Remora,,,,,,
-Grenade,,,,,,
-Drake,,,,,,
-Greater Boros,,,,,,
-Sabertooth Liger,,,,,,
-Queen Lamia,,,,,,
-Zombie Dragon,,,,,,
-Death Claw,,,,,,
-Hellish Horse,,,,,,
-Chronos,,,,,,
-Valefor,,,,,,
-Haniel,,,,,,
-Vassago,,,,,,
-Peryton,,,,,,
-Ogre,,,,,,
-Cyclops,,,,,,
-Nemesis,,,,,,
-Death Needle,,,,,,
-Liger,,,,,,
-Aeon,,,,,,
-Minotaur,,,,,,
-Iron Claws,,,,,,
-Greater Demon,,,,,,
-Unei’s Clone,,,,,,
-Thanatos,,,,,,
-Bone Dragon,,,,,,
-King Behemoth,,,,,,
-Abaia,,,,,,
-Sleipnir,,,,,,
-Haokah,,,,,,
-Acheron,,,,,,
-Oceanus,,,,,,
-Gomory,,,,,,
-Bluck,,,,,,
-Doga’s Clone,,,,,,
-Azer,,,,,,
-Platinal,,,,,,
-Qumqum,,,,,,
-Shinobi,,,,,,
-Shadow Master,,,,,,
-Kage,,,,,,
-Dark General,,,,,,
-Yellow Dragon,,,,,,
-Green Dragon,,,,,,
-Red Dragon,,,,,,
-Glasya Labolas,,,,,,
-Yormungand,,,,,,
-Thor,,,,,,
-Hecatoncleir,,,,,,
-Hydra,,,,,,
-Queen Scylla,,,,,,
-Garm,,,,,,
-Twin Dragon,,,,,,
-Land Turtle,,,,,,
-Djinn,,,,,,
-Nepto Dragon,,,,,,
-Giant Rat,,,,,,
-Medusa,,,,,,
-Gutsco,,,,,,
-Salamander,,,,,,
-Hein,,,,,,
-Kraken,,,,,,
-Goldor,,,,,,
-Garuda,,,,,,
-Odin,,,,,,
-Levianthan,,,,,,
-Bahamut,,,,,,
-Doga,,,,,,
-Unei,,,,,,
-Titan,,,,,,
-Ninja,,,,,,
-Amon,,,,,,
-Kunoichi,,,,,,
-General,,,,,,
-Guardian,,,,,,
-Scylla,,,,,,
-Xande,,,,,,
-Xande’s Clone,,,,,,
-Cerberus,,,,,,
-Two-Headed Dragon,,,,,,
-Echidna,,,,,,
-Ahriman,,,,,,
-Cloud of Darkness,,,,,,
-Iron Giant,,,,,,
+Goblin,1,7,6,6,1,10
+Carbuncle,1,10,6,6,2,5
+Eye Fang,1,11,7,6,3,7
+Blue Wisp,1,14,7,6,4,10
+Killer Bee,2,18,8,6,12,12
+Werewolf,3,24,9,6,12,14
+Berserker,4,28,11,6,14,22
+Red Wisp,5,39,12,10,70,18
+Dark Eye,5,43,12,10,95,20
+Zombie,6,47,14,10,100,22
+Mummy,6,52,15,10,100,24
+Skeleton,6,57,14,10,105,26
+Cursed Copper,6,42,14,10,105,52
+Larva,6,44,15,10,120,30
+Shadow,7,66,15,10,120,32
+Revenant,7,70,14,10,130,34
+Firefly,9,92,17,15,130,36
+Helldiver,8,120,17,15,120,38
+Rust Bird,9,135,18,15,150,40
+Rukh,9,155,19,15,150,42
+Basilisk,9,100,18,15,150,44
+Bugbear,9,110,20,15,180,46
+Mandrake,9,120,19,15,180,48
+Leprechaun,9,142,16,15,200,52
+Darkface,9,168,16,15,200,53
+Petit,9,103,15,15,200,54
+Poison Bat,9,98,15,15,220,56
+Lilliputian,10,118,17,15,229,58
+Wererat,10,130,18,15,220,60
+Blood Worm,11,165,22,15,240,62
+Killer Fish,13,135,22,16,240,64
+Hermit,13,173,22,16,240,66
+Sea Elemental,12,155,22,16,250,67
+Tangie,13,225,24,16,250,68
+Sahagin,13,190,22,16,250,70
+Parademon,16,245,27,16,270,72
+Griffon,6,230,15,8,130,40
+Lynx,16,265,27,16,270,76
+Hornet,15,260,25,16,300,78
+Knocker,13,131,23,16,300,80
+Flyer,12,139,23,16,300,82
+Lizardman,12,155,24,16,320,87
+Gorgon,13,145,24,16,320,86
+Red Cap,18,252,31,16,320,87
+Barometz,18,264,31,16,330,8
+Slime,17,240,28,16,330,90
+Tarantula,18,240,31,16,330,92
+Cuphgel,18,240,31,16,360,94
+Pugman,14,171,27,17,360,96
+Far Darrig,14,177,25,17,360,98
+Blood Bat,14,208,27,17,380,100
+Petit Mage,13,196,23,17,380,101
+Fury,16,216,29,17,380,102
+Aughisky,15,235,28,17,400,105
+Bomb,16,315,31,19,400,110
+Manticore,17,375,32,19,400,112
+Stalagmite,17,284,30,19,400,115
+Sea Devil,17,339,31,19,450,116
+Merman,17,345,31,19,450,118
+Ruinous Wave,16,296,30,19,450,120
+Balloon,18,386,33,19,450,125
+Myrmecoleon,19,494,35,19,500,130
+Crocotta,19,500,35,19,500,135
+Adamantoise,21,800,40,19,700,270
+Red Marshmallow,18,510,34,19,500,140
+Pharaoh,20,580,41,19,600,145
+Lemur,19,752,38,19,600,150
+Lamia,23,850,44,19,840,310
+Demon,23,742,45,19,1008,316
+Dullahan,23,1000,48,19,1008,320
+Anet,14,268,25,19,400,100
+Mermaid,15,364,25,19,450,123
+Seahorse,14,278,25,19,450,119
+Sea Serpent,17,530,30,19,700,406
+Cockatrice,20,890,44,19,800,185
+Poison Toad,19,800,40,19,900,190
+Twin Heads,19,910,42,19,900,200
+Roper,20,815,43,19,900,200
+Agaliarept,21,930,45,19,1000,210
+Darklegs,22,940,41,20,1000,220
+Gigantoad,20,838,41,20,1000,230
+Twin Liger,22,960,43,20,1100,240
+Stroper,21,1100,41,20,1100,250
+Black Flan,22,880,44,20,1100,260
+Hellgaroo,22,888,44,20,1250,270
+Vulcan,26,2200,50,20,1750,560
+Dracrotta,23,1050,44,20,1250,290
+Magician,23,1040,43,20,1400,300
+Lost Gold,23,928,38,22,1400,310
+Gold Eagle,23,935,43,22,1400,320
+Gold Warrior,24,1130,47,22,1500,330
+Gold Bear,24,1090,49,22,1500,340
+Gold Knight,25,1100,48,22,1500,350
+Nightmare,25,1120,48,22,1900,360
+Hellgaroo Mage,25,1093,49,22,1400,370
+Needle Monkey,25,1100,48,22,1400,380
+Catoblepas,26,1260,54,22,1600,390
+Sorcerer,26,1270,51,22,1600,400
+Sand Worm,26,1290,53,22,1920,420
+Frostfly,28,1200,54,23,1920,430
+Simurgh,28,1220,55,23,2080,450
+Harpy,30,1650,56,23,2080,460
+Gargoyle,28,1240,56,23,2400,470
+Chimera,28,1250,57,23,2400,475
+Demon Horse],29,710,36,23,2640,480
+Rock Gargoyle,29,720,36,23,2640,490
+Bovian,29,730,36,23,2640,500
+Dread Knight,29,740,36,23,2880,510
+Flyer Mage,28,680,36,23,2880,520
+Noggle,30,1310,56,24,2280,540
+Abtu,29,1128,54,24,2280,550
+Sea Dragon,27,2550,57,24,4680,1120
+Kagura,29,1143,54,24,3120,580
+Charybdis,30,1350,57,24,3120,600
+Dozmare,31,1650,58,24,4400,780
+Sea Witch,31,1660,58,24,4800,800
+Killer Hermit,31,1680,59,24,4800,820
+Ologhai,30,1415,58,24,4800,840
+Kelpie,30,1420,58,24,5600,850
+Aegir,31,1740,58,24,5600,860
+Kyklops,32,1580,66,24,4000,720
+Boss Troll,32,1600,66,24,4000,740
+Fachan,32,1620,65,24,5600,745
+Cenchos,32,4000,69,24,6500,1500
+Balor,32,1660,65,24,4400,760
+Dira,33,5000,73,25,3280,610
+Chimera Mage,33,1540,69,25,3280,615
+King Lizard,33,1560,68,25,3280,620
+Pterodactyl,33,1570,68,25,3280,640
+Wyvern,36,1825,78,26,6000,1300
+Behemoth,37,12650,84,26,6900,4668
+King Seahorse,33,1405,68,25,3600,680
+Dragon,38,11000,85,26,7200,9000
+Pyralis,37,6550,81,26,14400,1960
+Silenus,35,2120,74,25,1020,900
+Gaap,34,1800,73,25,1020,623
+Azrael,34,1920,73,25,1020,640
+Eater,35,2700,74,25,1020,945
+Ouroboros,36,2660,81,26,7200,1300
+Plancti,35,2260,76,26,7200,1223
+Sea Lion,35,2275,76,26,7600,1325
+Remora,36,2720,81,26,7600,1354
+Grenade,36,2305,82,26,7600,1400
+Drake,37,3260,83,26,7600,1650
+Greater Boros,37,3280,83,26,7600,1700
+Sabertooth Liger,37,3300,83,26,7600,1800
+Queen Lamia,39,7200,86,27,12000,4400
+Zombie Dragon,41,11000,90,27,15000,2880
+Death Claw,38,3800,85,26,7500,680
+Hellish Horse,38,4360,87,26,8000,690
+Chronos,38,4100,86,26,1280,320
+Valefor,38,4240,88,26,1280,320
+Haniel,37,3400,82,26,1280,1450
+Vassago,38,4440,88,26,1280,320
+Peryton,41,9650,92,27,9600,2400
+Ogre,39,5680,93,26,6800,950
+Cyclops,39,4700,91,26,6800,1000
+Nemesis,39,4720,89,26,6800,1050
+Humbaba,39,6740,91,26,6800,1100
+Death Needle,40,4060,91,28,6400,1550
+Liger,41,5870,92,28,6400,1200
+Aeon,43,10060,98,28,10200,3200
+Minotaur,41,5960,93,28,6800,1640
+Iron Claws,41,5760,93,28,7600,2000
+Greater Demon,42,10750,97,28,11400,4800
+Unei’s Clone,42,10000,96,28,14400,8500
+Thanatos,42,11800,98,28,11400,5000
+Bone Dragon,43,14000,95,28,11400,7800
+King Behemoth,50,45000,112,28,15200,10800
+Abaia,42,6970,93,29,8000,2700
+Sleipnir,43,7000,94,29,8000,2800
+Haokah,43,7200,93,29,8000,2900
+Acheron,44,13600,102,29,12000,6600
+Oceanus,44,13200,100,29,12600,6800
+Gomory,45,19976,98,29,12600,7000
+Bluck,44,6720,94,29,8400,1655
+Doga’s Clone,45,18500,96,29,16000,5000
+Azer,45,17560,106,30,13200,7400
+Platinal,47,19976,107,30,13200,7600
+Qumqum,46,9600,84,30,8800,3600
+Shinobi,46,11000,102,30,8800,3700
+Shadow Master,46,10000,100,30,8800,3800
+Kage,47,12000,104,30,9200,3900
+Dark General,48,20000,110,30,13800,8600
+Yellow Dragon,50,79999,107,40,30000,12000
+Green Dragon,60,89999,129,45,45000,13330
+Red Dragon,70,99999,150,50,60000,14666
+Glasya Labolas,52,22800,112,31,13800,8400
+Yormungand,52,30560,134,31,13800,8800
+Thor,50,12540,105,30,9600,4000
+Hecatoncheir,43,28000,89,32,14400,8000
+Hydra,63,33800,123,32,14400,8500
+Queen Scylla,52,34760,107,32,14400,10000
+Garm,52,19960,107,32,14400,6700
+Twin Dragon,54,34920,131,32,15000,11000
+Land Turtle,4,111,8,6,20,500
+Djinn,7,600,20,8,200,1400
+Nepto Dragon,39,999999,599,359,2099,9999
+Giant Rat,11,900,24,29,1200,1500
+Medusa,17,3000,35,22,1680,2600
+Gutsco,17,3500,35,24,2304,3500
+Salamander,19,5700,41,25,2744,3700
+Hein,22,4500,47,26,3464,4300
+Kraken,24,8000,55,27,5280,5500
+Goldor,26,9000,53,28,6560,9900
+Garuda,28,10000,57,29,8800,10200
+Odin,40,31000,81,35,20000,16800
+Leviathan,43,32000,85,36,20000,17100
+Bahamut,45,34000,90,37,20000,16500
+Doga,45,22800,89,40,13600,12000
+Unei,44,21800,86,42,16000,12600
+Titan,46,29000,96,44,27600,13500
+Ninja,47,24000,96,46,28400,14400
+Amon ,48,33500,96,46,28600,20350
+Kunoichi,48,29000,96,46,29200,14500
+General,48,35000,105,46,30000,15600
+Guardian,49,33700,107,46,31600,16500
+Scylla,49,35000,104,46,30800,16200
+Xande,50,49999,110,48,34000,25000
+Xande’s Clone,49,39000,109,45,24800,15000
+Cerberus,55,99999,123,46,66666,66666
+Two-Headed Dragon,55,99999,151,46,66666,66666
+Echidna,55,99999,117,46,66666,66666
+Ahriman,55,99999,107,46,66666,66666
+Cloud of Darkness,60,120000,120,55,99999,79000
+Iron Giant,81,199999,255,155,99000,99000
