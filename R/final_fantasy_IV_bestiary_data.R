@@ -14,7 +14,7 @@
 #'    \item{Attack%}{Attack Percentage}
 #'    \item{Defense%}{Defense Percentage}
 #'    \item{Magic Def%}{Magic Defense Percentage}
-#'    \item{Magic Def}{Attack Percentage}
+#'    \item{Magic Def}{Magic Defense}
 #'    \item{Agility}{Agility}
 #'    \item{EXP}{EXP}
 #'    \item{Gil}{Gil}
