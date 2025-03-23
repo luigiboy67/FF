@@ -1,0 +1,26 @@
+#' Final Fantasy Five Bestiary data
+#'
+#' Data on all monsters in Final Fantasy 5
+#'
+#' @format `final_fantasy_V_bestiary_data`
+#' A data frame with 310 rows and 16 columns
+#' \describe{
+#'    \item{Name}{Name}
+#'    \item{LV}{Level}
+#'    \item{HP}{Hit Points}
+#'    \item{MP}{Magic Points}
+#'    \item{Strength}{Strength}
+#'    \item{Defense}{Defense}
+#'    \item{Evasion}{Evasion}
+#'    \item{Magic}{Magic}
+#'    \item{Magic Defense}{Magic Defense}
+#'    \item{Magic Evasion}{Magic Evasion}
+#'    \item{Agility}{Agility}
+#'    \item{Attackx}{Times of Attacks}
+#'    \item{Magicx}{Times of Magic Attacks}
+#'    \item{Gil}{Gil}
+#'    \item{EXP}{EXP}
+#'    \item{ABP}{ABP}
+#' }
+#' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_V)#Bestiary_(Pixel_Remaster)>
+"final_fantasy_V_bestiary_data"
