@@ -1,7 +1,6 @@
-
-# FF
-
 <!-- badges: start -->
+# FF <a href="https://luigiboy67.github.io/FF/"><img src="man/figures/logo.png" align="right" height="139" alt="FF website" /></a>
+
 <!-- badges: end -->
 
 FF is a dataset package for R that holds all bestiary data from all the Final Fantasy games
