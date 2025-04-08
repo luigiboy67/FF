@@ -17,7 +17,7 @@
 #'    \item{Agility}{Agility}
 #'    \item{Hit Rate}{Hit Rate}
 #'    \item{Evasion}{Evasion}
-#'    \item{EXP}{EXP}
+#'    \item{EXP}{Experience Points}
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_VI)#Bestiary_(pixel_remaster)>

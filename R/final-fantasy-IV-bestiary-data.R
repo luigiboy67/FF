@@ -16,7 +16,7 @@
 #'    \item{Magic Def%}{Magic Defense Percentage}
 #'    \item{Magic Def}{Magic Defense}
 #'    \item{Agility}{Agility}
-#'    \item{EXP}{EXP}
+#'    \item{EXP}{Experience Points}
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_IV)#Final_Fantasy_IV_Pixel_Remaster>
