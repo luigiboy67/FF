@@ -19,7 +19,7 @@ A data frame with 197 rows and 14 columns
 \item{Magic Def\%}{Magic Defense Percentage}
 \item{Magic Def}{Magic Defense}
 \item{Agility}{Agility}
-\item{EXP}{EXP}
+\item{EXP}{Experience Points}
 \item{Gil}{Gil}
 }
 }

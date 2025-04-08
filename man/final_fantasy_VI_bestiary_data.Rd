@@ -20,7 +20,7 @@ A data frame with 347 rows and 14 columns
 \item{Agility}{Agility}
 \item{Hit Rate}{Hit Rate}
 \item{Evasion}{Evasion}
-\item{EXP}{EXP}
+\item{EXP}{Experience Points}
 \item{Gil}{Gil}
 }
 }

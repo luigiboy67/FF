@@ -17,10 +17,10 @@ A data frame with 290 rows and 14 columns
 \item{Defense}{Defense}
 \item{Magic Defense}{Magic Defense}
 \item{Dexterity}{Dexterity}
-\item{Defense\%}{Defense\%}
+\item{Defense\%}{Defense Percentage}
 \item{Luck}{Luck}
-\item{EXP}{EXP}
-\item{AP}{AP}
+\item{EXP}{Experinece Points}
+\item{AP}{Ability Points}
 \item{Gil}{Gil}
 }
 }
