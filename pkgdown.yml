@@ -2,7 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-04-02T00:08Z
+last_built: 2025-04-09T00:19Z
 urls:
   reference: https://luigiboy67.github.io/FF/reference
   article: https://luigiboy67.github.io/FF/articles
