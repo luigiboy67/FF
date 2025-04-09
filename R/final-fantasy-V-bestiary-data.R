@@ -19,8 +19,8 @@
 #'    \item{Attackx}{Times of Attacks}
 #'    \item{Magicx}{Times of Magic Attacks}
 #'    \item{Gil}{Gil}
-#'    \item{EXP}{EXP}
-#'    \item{ABP}{ABP}
+#'    \item{EXP}{Experince Points}
+#'    \item{ABP}{Ability Points}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_V)#Bestiary_(Pixel_Remaster)>
 "final_fantasy_V_bestiary_data"

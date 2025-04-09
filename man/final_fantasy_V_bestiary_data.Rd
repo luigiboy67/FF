@@ -22,8 +22,8 @@ A data frame with 310 rows and 16 columns
 \item{Attackx}{Times of Attacks}
 \item{Magicx}{Times of Magic Attacks}
 \item{Gil}{Gil}
-\item{EXP}{EXP}
-\item{ABP}{ABP}
+\item{EXP}{Experince Points}
+\item{ABP}{Ability Points}
 }
 }
 \source{
