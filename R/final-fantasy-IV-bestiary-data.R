@@ -3,9 +3,10 @@
 #' Data on all monsters in Final Fantasy 4
 #'
 #' @format `final_fantasy_IV_bestiary_data`
-#' A data frame with 197 rows and 14 columns
+#' A data frame with 197 rows and 15 columns
 #' \describe{
 #'    \item{Name}{Name}
+#'    \item{Form}{Form}
 #'    \item{Level}{Level}
 #'    \item{HP}{Hit Points}
 #'    \item{Attack}{Attack}
