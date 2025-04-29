@@ -6,9 +6,10 @@
 \title{Final Fantasy Eight Bestiary data}
 \format{
 \code{final_fantasy_VIII_bestiary_data}
-A data frame with 128 rows and 10 columns
+A data frame with 128 rows and 11 columns
 \describe{
 \item{Name}{Name}
+\item{Form}{Form}
 \item{LV}{Level}
 \item{HP}{Hit Points}
 \item{STR}{Strength}

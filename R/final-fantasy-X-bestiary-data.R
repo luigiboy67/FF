@@ -3,9 +3,10 @@
 #' Data on all monsters in Final Fantasy 10
 #'
 #' @format `final_fantasy_X_bestiary_data`
-#' A data frame with 246 rows and 13 columns
+#' A data frame with 246 rows and 14 columns
 #' \describe{
 #'    \item{Name}{Name}
+#'    \item{Form}{Form}
 #'    \item{HP}{Hit Points}
 #'    \item{MP}{Magic Points}
 #'    \item{AP}{Ability Points}
