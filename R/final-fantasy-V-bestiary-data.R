@@ -3,9 +3,10 @@
 #' Data on all monsters in Final Fantasy 5
 #'
 #' @format `final_fantasy_V_bestiary_data`
-#' A data frame with 310 rows and 16 columns
+#' A data frame with 310 rows and 17 columns
 #' \describe{
 #'    \item{Name}{Name}
+#'    \item{Form}{Form}
 #'    \item{LV}{Level}
 #'    \item{HP}{Hit Points}
 #'    \item{MP}{Magic Points}

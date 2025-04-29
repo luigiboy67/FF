@@ -6,9 +6,10 @@
 \title{Final Fantasy Ten Bestiary data}
 \format{
 \code{final_fantasy_X_bestiary_data}
-A data frame with 246 rows and 13 columns
+A data frame with 246 rows and 14 columns
 \describe{
 \item{Name}{Name}
+\item{Form}{Form}
 \item{HP}{Hit Points}
 \item{MP}{Magic Points}
 \item{AP}{Ability Points}
