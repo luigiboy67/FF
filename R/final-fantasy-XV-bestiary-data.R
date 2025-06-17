@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 15
 #'
-#' @format `final_fantasy_XV_bestiary_data`
+#' @format `Final_Fantasy_XV`
 #' A data frame with 362 rows and 11 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -19,4 +19,4 @@
 #'
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_XV)>
-"final_fantasy_XV_bestiary_data"
+"Final_Fantasy_XV"

@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 3
 #'
-#' @format `final_fantasy_III_bestiary_data`
+#' @format `Final_Fantasy_III`
 #' A data frame with 226 rows and 7 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -14,4 +14,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_III)>
-"final_fantasy_III_bestiary_data"
+"Final_Fantasy_III"

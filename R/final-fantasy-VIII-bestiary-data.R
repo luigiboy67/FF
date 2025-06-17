@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 8
 #'
-#' @format `final_fantasy_VIII_bestiary_data`
+#' @format `Final_Fantasy_VIII`
 #' A data frame with 128 rows and 11 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -18,4 +18,4 @@
 #'    \item{EXP}{Experience Points}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VIII_enemies>
-"final_fantasy_VIII_bestiary_data"
+"Final_Fantasy_VIII"

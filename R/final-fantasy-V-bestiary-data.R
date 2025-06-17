@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 5
 #'
-#' @format `final_fantasy_V_bestiary_data`
+#' @format `Final_Fantasy_V`
 #' A data frame with 310 rows and 17 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -24,4 +24,4 @@
 #'    \item{ABP}{Ability Points}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_V)#Bestiary_(Pixel_Remaster)>
-"final_fantasy_V_bestiary_data"
+"Final_Fantasy_V"
