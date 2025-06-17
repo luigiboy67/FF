@@ -1,6 +1,6 @@
 Package: FF
 Title: Final Fantasy Datasets
-Version: 0.0.15
+Version: 0.0.16
 Authors@R: person("James", "Anders", , "jamesanders98@protonemail.com", role = c("aut", "cre"))
 Description: This package will be built on bestiary data from all final fantasy games.
 License: MIT + file LICENSE
