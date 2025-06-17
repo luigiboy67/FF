@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 13
 #'
-#' @format `final_fantasy_XIII_bestiary_data`
+#' @format `Final_Fantasy_XIII`
 #' A data frame with 244 rows and 12 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -20,4 +20,4 @@
 #'
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Datalog_(Final_Fantasy_XIII)/Enemy_Intel>
-"final_fantasy_XIII_bestiary_data"
+"Final_Fantasy_XIII"

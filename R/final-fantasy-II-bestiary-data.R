@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 2
 #'
-#' @format `final_fantasy_II_bestiary_data`
+#' @format `Final_Fantasy_II`
 #' A data frame with 128 rows and 10 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -17,4 +17,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_II)>
-"final_fantasy_II_bestiary_data"
+"Final_Fantasy_II"

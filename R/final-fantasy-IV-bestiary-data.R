@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 4
 #'
-#' @format `final_fantasy_IV_bestiary_data`
+#' @format `Final_Fantasy_IV`
 #' A data frame with 197 rows and 15 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -21,4 +21,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_IV)#Final_Fantasy_IV_Pixel_Remaster>
-"final_fantasy_IV_bestiary_data"
+"Final_Fantasy_IV"

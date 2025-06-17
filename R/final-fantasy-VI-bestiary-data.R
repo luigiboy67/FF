@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 6
 #'
-#' @format `final_fantasy_VI_bestiary_data`
+#' @format `Final_Fantasy_VI`
 #' A data frame with 347 rows and 15 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -22,4 +22,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_VI)#Bestiary_(pixel_remaster)>
-"final_fantasy_VI_bestiary_data"
+"Final_Fantasy_VI"

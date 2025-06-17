@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 7
 #'
-#' @format `final_fantasy_VII_bestiary_data`
+#' @format `Final_Fantasy_VII`
 #' A data frame with 290 rows and 15 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -22,4 +22,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Final_Fantasy_VII_enemies>
-"final_fantasy_VII_bestiary_data"
+"Final_Fantasy_VII"
