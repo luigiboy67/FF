@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 1
 #'
-#' @format `final_fantasy_I_bestiary_data`
+#' @format `Final_Fantasy_I`
 #' A data frame with 128 rows and 11 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -18,4 +18,4 @@
 #'    \item{Gil}{Gil}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy)>
-"final_fantasy_I_bestiary_data"
+"Final_Fantasy_I"

@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 10
 #'
-#' @format `final_fantasy_X_bestiary_data`
+#' @format `Final_Fantasy_X`
 #' A data frame with 246 rows and 14 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -21,4 +21,4 @@
 #'    \item{Luck}{Luck}
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Sphere_of_Monster>
-"final_fantasy_X_bestiary_data"
+"Final_Fantasy_X"

@@ -2,7 +2,7 @@
 #'
 #' Data on all monsters in Final Fantasy 12
 #'
-#' @format `final_fantasy_XII_bestiary_data`
+#' @format `Final_Fantasy_XII`
 #' A data frame with 620 rows and 17 columns
 #' \describe{
 #'    \item{Name}{Name}
@@ -25,4 +25,4 @@
 #'
 #' }
 #' @source <https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_XII)>
-"final_fantasy_XII_bestiary_data"
+"Final_Fantasy_XII"
